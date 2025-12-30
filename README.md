@@ -4,11 +4,11 @@ This project was built in **Unreal Engine 5** with a focus on modular systems an
 
 ![Status](https://img.shields.io/badge/status-playable-success.svg)
 ![Engine](https://img.shields.io/badge/engine-Unreal%20Engine%205-0E1128.svg)
-![Genre](https://img.shields.io/badge/genre-psychological%20horror-lightgrey.svg)
 ![Architecture](https://img.shields.io/badge/architecture-event--driven-blueviolet.svg)
 ![Design](https://img.shields.io/badge/design-modular%20systems-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)
 ![Status](https://img.shields.io/badge/status-prototype-blue.svg)
+![Genre](https://img.shields.io/badge/genre-psychological%20horror-lightgrey.svg)
 
 ![Gameplay Pictures](https://github.com/th-efool/Horror_FPS/blob/main/screenshot20251230090517.png)
 
