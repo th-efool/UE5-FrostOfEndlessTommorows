@@ -10,7 +10,21 @@ This project was built in **Unreal Engine 5** with a focus on modular systems an
 ![Status](https://img.shields.io/badge/status-prototype-blue.svg)
 ![Genre](https://img.shields.io/badge/genre-psychological%20horror-lightgrey.svg)
 
-![Gameplay Pictures](https://github.com/th-efool/Horror_FPS/blob/main/screenshot20251230090517.png)
+<table>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github.com/th-efool/Horror_FPS/blob/main/screenshot20251230090517.png" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/th-efool/Horror_FPS/blob/main/screenshot20251230090437.png" width="100%">
+    </td>
+    <td align="center">
+      <img src="https://github.com/th-efool/Horror_FPS/blob/main/screenshot20251230090354.png" width="100%">
+    </td>
+  </tr>
+</table>
 
 To Play the Game Directly, you can download and run the executable from here: [🎮game.exe](https://drive.google.com/drive/folders/1bwhD_902zfkpq301nAY7nngzucZofkKe?usp=sharing)
 
