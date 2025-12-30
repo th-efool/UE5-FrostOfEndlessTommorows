@@ -3,6 +3,13 @@
 ## Project Overview
 
 This project was built in **Unreal Engine 5** with a focus on modular systems and dynamic event management to create an immersive and replayable experience with easy-to-expand systems.
+![Status](https://img.shields.io/badge/status-playable-success.svg)
+![Engine](https://img.shields.io/badge/engine-Unreal%20Engine%205-0E1128.svg)
+![Genre](https://img.shields.io/badge/genre-psychological%20horror-lightgrey.svg)
+![Architecture](https://img.shields.io/badge/architecture-event--driven-blueviolet.svg)
+![Design](https://img.shields.io/badge/design-modular%20systems-blue.svg)
+![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)
+![Status](https://img.shields.io/badge/status-prototype-blue.svg)
 
 To Play the Game Directly, you can download and run the executable from here: [🎮game.exe](https://drive.google.com/drive/folders/1bwhD_902zfkpq301nAY7nngzucZofkKe?usp=sharing)
 
