@@ -21,7 +21,7 @@ This project was built in **Unreal Engine 5** with a focus on modular systems an
   </tr>
     <tr>
     <td colspan="2" align="center">
-      <img src="https://github.com/th-efool/Horror_FPS/blob/main/screenshot20251230090517.png" width="100%">
+      <img src="https://github.com/th-efool/Horror_FPS/blob/main/screenshot20251230090517.png" width="80%" height="70%">
     </td>
   </tr>
 </table>
