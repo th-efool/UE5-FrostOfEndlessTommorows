@@ -12,16 +12,16 @@ This project was built in **Unreal Engine 5** with a focus on modular systems an
 
 <table>
   <tr>
-    <td colspan="2" align="center">
-      <img src="https://github.com/th-efool/Horror_FPS/blob/main/screenshot20251230090517.png" width="100%">
-    </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://github.com/th-efool/Horror_FPS/blob/main/screenshot20251230090437.png" width="100%">
     </td>
     <td align="center">
       <img src="https://github.com/th-efool/Horror_FPS/blob/main/screenshot20251230090354.png" width="100%">
+    </td>
+  </tr>
+    <tr>
+    <td colspan="2" align="center">
+      <img src="https://github.com/th-efool/Horror_FPS/blob/main/screenshot20251230090517.png" width="100%">
     </td>
   </tr>
 </table>
