@@ -151,9 +151,9 @@ The illusion is created by teleporting the player character around. These system
 
 In infinite hallway there are **four event manager objects** - two on each end. The reason for having two of them is that in case after teleportation, if the player tries to break the game by running backwards, the other event manager will teleport them to one of the inner event manager anchors.
 
-### Collectible Mirror Objects
+### Collectable Mirror Objects
 
-There are mysterious collectible mirrors placed around. Each mirror does something that can serve as a clue for solving puzzles to unlock the mystery:
+There are mysterious Collectable mirrors placed around. Each mirror does something that can serve as a clue for solving puzzles to unlock the mystery:
 
 - **Reversing Movements** - Going forward makes you go backward, left becomes right, etc. (multiplying input-axis value by -1)
 - **Reversing Gravity** - We play with character controller script gravity values
